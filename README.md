@@ -1,2 +1,3 @@
 # theme-ui-next-component-sharing
-test repo for bugs with sharing theme-ui components in next apps
+
+Test repo for understanding how to bundle `React` components built with `theme-ui` and then consume them in a `next.js` app.
