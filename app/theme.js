@@ -28,9 +28,19 @@ module.exports = {
   },
   styles: {
     root: {
-      // uses the theme values provided above
       fontFamily: 'body',
       fontWeight: 'body',
+    },
+    a: {
+      color: 'text',
+      '&:active': {
+        color: 'text',
+      },
+      '&:hover': {
+        color: 'secondary',
+      },
+      textDecoration: 'underline',
+      cursor: 'pointer',
     },
   },
 }

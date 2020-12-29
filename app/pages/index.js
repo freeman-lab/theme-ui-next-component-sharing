@@ -1,5 +1,5 @@
 import { Box, Text, Grid, IconButton } from 'theme-ui'
-import { Primary, Secondary, Hook } from 'theme-ui-test-component'
+import { Primary, Secondary, Hook, Nav } from 'theme-ui-test-component'
 
 function Index() {
   return (
@@ -13,6 +13,7 @@ function Index() {
     <Primary />
     <Secondary />
     <Hook />
+    <Nav />
     </Box>
   )
 }

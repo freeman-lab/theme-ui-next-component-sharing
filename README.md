@@ -1,6 +1,9 @@
 # theme-ui-next-component-sharing
 
-Test repo for understanding how to bundle `React` components built with `theme-ui` and then consume them in a `next.js` app.
+Test repo for understanding how to bundle `React` components built with `theme-ui` and then consume them in a `next.js` app. Tests some common functionality including:
+- basic theme application
+- accessing the theme via a hook
+- the use of `next/link` to wrap a `theme-ui` `Link`
 
 The following works assuming we are publishing to npm.
 
