@@ -6,7 +6,7 @@ module.exports = {
     secondary: '#A879A5'
   },
   fonts: {
-    body: 'system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif',
+    body: 'relative-book-pro, Roboto, system-ui, -apple-system, BlinkMacSystemFont',
     heading: 'Georgia, serif',
     monospace: 'Menlo, monospace',
   },
