@@ -9,7 +9,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "theme-ui-test-component": "0.0.7",
+    "theme-ui-test-component": "0.0.9",
     "next": "^10.0.4",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
