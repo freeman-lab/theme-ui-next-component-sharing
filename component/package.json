@@ -1,6 +1,6 @@
 {
   "name": "theme-ui-test-component",
-  "version": "0.0.11",
+  "version": "0.0.13",
   "main": "dst/index.js",
   "module": "dst/index.esm.js",
   "files": [
